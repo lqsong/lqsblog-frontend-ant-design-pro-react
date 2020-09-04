@@ -77,7 +77,13 @@
 ## 环境准备
 
 ### 复制配置文件 '.env'
+
 复制 '.env' 重命名为 ' .env.local' , 启用、修改对应的参数.
+
+```bash
+# api接口域名
+API_HOST=http://rap2.taobao.org:38080/app/mock/247994/admin
+```
 
 ### Install `node_modules`:
 
