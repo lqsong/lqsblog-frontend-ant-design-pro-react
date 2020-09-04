@@ -1,0 +1,23 @@
+export default {
+    'app.settingtaglist.table-title': '列表',
+    'app.settingtaglist.btn-add': '新建',
+    'app.settingtaglist.btn-edit': '修改',
+    'app.settingtaglist.btn-del': '刪除',
+    'app.settingtaglist.table-column-number': '序號',
+    'app.settingtaglist.table-column-name': '名稱',
+    'app.settingtaglist.table-column-pinyin': '拼音',
+    'app.settingtaglist.table-column-oper': '操作',
+    'app.settingtaglist.createform.title': '新建標簽',
+    'app.settingtaglist.createform.btn-cancel': '取消',
+    'app.settingtaglist.createform.btn-submit': '保存',
+    'app.settingtaglist.createform.form-item-name': '名稱',
+    'app.settingtaglist.createform.form-item-pinyin': '拼音',
+    'app.settingtaglist.createform.form-item-name-placeholder': '請輸入名稱',
+    'app.settingtaglist.createform.form-item-name-reg': '不能有英文格式的 ","',
+    'app.settingtaglist.createform.form-item-name-length': '最長 10 個字',
+    'app.settingtaglist.createform.form-item-pinyin-placeholder': '請輸入拼音',
+    'app.settingtaglist.createform.form-item-pinyin-reg': '必須是小寫字母',
+    'app.settingtaglist.createform.form-item-pinyin-length': '最長 60 個字符',
+    'app.settingtaglist.updateform.title': '修改標簽',
+};
+  

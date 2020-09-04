@@ -1,0 +1,22 @@
+export default {
+    'app.settingapilist.list.btn-add': '新建一级API',
+    'app.settingapilist.list.btn-add-child': '新建下级',
+    'app.settingapilist.list.btn-edit': '修改',
+    'app.settingapilist.list.btn-del': '删除',
+    'app.settingapilist.list.table-column-title': 'API列表',
+    'app.settingapilist.list.table-column-permission': 'API地址',
+    'app.settingapilist.list.table-column-oper': '操作',
+    'app.settingapilist.createform.title': '新建API',
+    'app.settingapilist.createform.btn-cancel': '取消',
+    'app.settingapilist.createform.btn-submit': '保存',
+    'app.settingapilist.createform.form-item-name': 'API名称',
+    'app.settingapilist.createform.form-item-permission': 'API地址',
+    'app.settingapilist.createform.form-item-pname': '上级API',
+    'app.settingapilist.createform.form-item-name-placeholder': '请输入API名称',
+    'app.settingapilist.createform.form-item-name-length': '最长 8 个字',
+    'app.settingapilist.createform.form-item-permission-placeholder': '请输入API地址',
+    'app.settingapilist.createform.form-item-permission-reg': '必须是小写字母、数字、/、:',
+    'app.settingapilist.createform.form-item-permission-length': '最长 80 个字符',
+    'app.settingapilist.updateform.title': '修改API',
+};
+  

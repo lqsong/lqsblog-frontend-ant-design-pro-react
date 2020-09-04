@@ -1,0 +1,22 @@
+export default {
+    'app.worksedit.card-title-basic': '基本信息', 
+    'app.worksedit.card-title-thumb': '缩略图', 
+    'app.worksedit.card-title-thumb-tips': '最多选择 4 张图片，请上传处理好的缩略图',
+    'app.worksedit.card-title-content': '详细内容', 
+    'app.worksedit.card-form.form-item-title': '标题', 
+    'app.worksedit.card-form.form-item-addtime': '发布时间', 
+    'app.worksedit.card-form.form-item-keywords': 'Keywords', 
+    'app.worksedit.card-form.form-item-description': 'Description', 
+    'app.worksedit.card-form.form-item-tag': '标签', 
+    'app.worksedit.card-form.form-item-title-placeholder': '请输入标题', 
+    'app.worksedit.card-form.form-item-title-minmax': '长度在 5 到 100 个字', 
+    'app.worksedit.card-form.form-item-addtime-placeholder': '请选择发布时间', 
+    'app.worksedit.card-form.form-item-keywords-placeholder': '请输入keywords', 
+    'app.worksedit.card-form.form-item-keywords-minmax': '长度在 2 到 50 个字', 
+    'app.worksedit.card-form.form-item-description-placeholder': '请输入Description', 
+    'app.worksedit.card-form.form-item-description-minmax': '长度在 10 到 200 个字', 
+    'app.worksedit.card-form.form-item-tag-placeholder': '请搜索选择标签', 
+    'app.worksedit.card-form.btn-submit': '提交',
+    'app.worksedit.card-form.submit-success.content': '修改作品成功',
+};
+  

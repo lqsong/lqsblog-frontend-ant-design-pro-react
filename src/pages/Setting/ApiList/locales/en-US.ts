@@ -1,0 +1,22 @@
+export default {
+    'app.settingapilist.list.btn-add': 'New Level API',
+    'app.settingapilist.list.btn-add-child': 'New Child',
+    'app.settingapilist.list.btn-edit': 'Edit',
+    'app.settingapilist.list.btn-del': 'Delete',
+    'app.settingapilist.list.table-column-title': 'List',
+    'app.settingapilist.list.table-column-permission': 'URL',
+    'app.settingapilist.list.table-column-oper': 'Operation',
+    'app.settingapilist.createform.title': 'New API',
+    'app.settingapilist.createform.btn-cancel': 'Cancel',
+    'app.settingapilist.createform.btn-submit': 'Save',
+    'app.settingapilist.createform.form-item-name': 'Name',
+    'app.settingapilist.createform.form-item-permission': 'URL',
+    'app.settingapilist.createform.form-item-pname': 'Parent Name',
+    'app.settingapilist.createform.form-item-name-placeholder': 'Please enter the name',
+    'app.settingapilist.createform.form-item-name-length': 'Maximum 8 characters',
+    'app.settingapilist.createform.form-item-permission-placeholder': 'Please enter the URL',
+    'app.settingapilist.createform.form-item-permission-reg': 'Must be lowercase letters, Numbers, /, :',
+    'app.settingapilist.createform.form-item-permission-length': 'Maximum 10 characters',
+    'app.settingapilist.updateform.title': 'Edit API',
+};
+  

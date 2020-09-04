@@ -1,0 +1,22 @@
+export default {
+    'app.worksedit.card-title-basic': 'Basic Information', 
+    'app.worksedit.card-title-thumb': 'Thumbnail', 
+    'app.worksedit.card-title-thumb-tips': 'Choose up to 4 pictures and upload the thumbnails',
+    'app.worksedit.card-title-content': 'Detailed Content', 
+    'app.worksedit.card-form.form-item-title': 'Title', 
+    'app.worksedit.card-form.form-item-addtime': 'Add Time', 
+    'app.worksedit.card-form.form-item-keywords': 'Keywords', 
+    'app.worksedit.card-form.form-item-description': 'Description', 
+    'app.worksedit.card-form.form-item-tag': 'Tags', 
+    'app.worksedit.card-form.form-item-title-placeholder': 'Please enter the title', 
+    'app.worksedit.card-form.form-item-title-minmax': 'The length is between 5 and 100 characters', 
+    'app.worksedit.card-form.form-item-addtime-placeholder': 'Please select a release date', 
+    'app.worksedit.card-form.form-item-keywords-placeholder': 'Please enter the keywords', 
+    'app.worksedit.card-form.form-item-keywords-minmax': 'The length is between 2 and 50 characters', 
+    'app.worksedit.card-form.form-item-description-placeholder': 'Please enter a Description', 
+    'app.worksedit.card-form.form-item-description-minmax': 'The length is between 10 and 200 characters', 
+    'app.worksedit.card-form.form-item-tag-placeholder': 'Please search the selection TAB', 
+    'app.worksedit.card-form.btn-submit': 'Submit',
+    'app.worksedit.card-form.submit-success.content': 'Edit the work successfully',
+};
+  

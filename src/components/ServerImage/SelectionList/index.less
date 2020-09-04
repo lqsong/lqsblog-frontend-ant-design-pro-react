@@ -1,0 +1,52 @@
+@import '~antd/es/style/themes/default.less';
+
+.upload {
+    background-color: #fafafa;
+    border: 1px dashed #d9d9d9;
+    color: rgba(0,0,0,.65);
+    cursor: pointer;
+    margin: 0 8px 8px 0;
+}
+.imglist {
+    position: relative;
+    display: block;
+    float: left;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    margin: 0 8px 8px 0;
+    border: 1px solid #c0ccda;
+    .item {
+        z-index: 1;
+    }
+    .btn {
+        display: none;
+        position: absolute;
+        z-index: 5;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        background-color: rgba(0,0,0,.5);
+        transition: all .3s;
+        .zoom-in,
+        .delete {
+            position: absolute;
+            top: 50px;
+            color: rgba(255,255,255,.85);
+            cursor: pointer;
+            font-size: 1.5em;
+        }
+        .zoom-in {
+            left: 32px;
+        }
+        .delete {
+            left: 62px;
+        }
+    }
+    &:hover {
+        .btn { 
+            display: block;
+        }
+    }
+}

@@ -1,0 +1,23 @@
+export default {
+    'app.settingtaglist.table-title': 'List',
+    'app.settingtaglist.btn-add': 'New',
+    'app.settingtaglist.btn-edit': 'Edit',
+    'app.settingtaglist.btn-del': 'Delete',
+    'app.settingtaglist.table-column-number': 'Serial Number',
+    'app.settingtaglist.table-column-name': 'Name',
+    'app.settingtaglist.table-column-pinyin': 'PinYin',
+    'app.settingtaglist.table-column-oper': 'Operation',
+    'app.settingtaglist.createform.title': 'New Tag',
+    'app.settingtaglist.createform.btn-cancel': 'Cancel',
+    'app.settingtaglist.createform.btn-submit': 'Save',
+    'app.settingtaglist.createform.form-item-name': 'Name',
+    'app.settingtaglist.createform.form-item-pinyin': 'PinYin',
+    'app.settingtaglist.createform.form-item-name-placeholder': 'Please enter the name',
+    'app.settingtaglist.createform.form-item-name-reg': 'You can\'t have "," in English.',
+    'app.settingtaglist.createform.form-item-name-length': 'Maximum 10 characters',
+    'app.settingtaglist.createform.form-item-pinyin-placeholder': 'Please enter the PinYin',
+    'app.settingtaglist.createform.form-item-pinyin-reg': 'It has to be lowercase',
+    'app.settingtaglist.createform.form-item-pinyin-length': 'Maximum 60 characters',
+    'app.settingtaglist.updateform.title': 'Edit Tag',
+};
+  

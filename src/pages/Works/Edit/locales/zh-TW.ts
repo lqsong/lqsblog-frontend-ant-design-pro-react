@@ -1,0 +1,22 @@
+export default {
+    'app.worksedit.card-title-basic': '基本信息', 
+    'app.worksedit.card-title-thumb': '縮略圖', 
+    'app.worksedit.card-title-thumb-tips': '最多選擇 4 張圖片，請上傳處理好的縮略圖',
+    'app.worksedit.card-title-content': '詳細內容', 
+    'app.worksedit.card-form.form-item-title': '標題', 
+    'app.worksedit.card-form.form-item-addtime': '發布時間', 
+    'app.worksedit.card-form.form-item-keywords': 'Keywords', 
+    'app.worksedit.card-form.form-item-description': 'Description', 
+    'app.worksedit.card-form.form-item-tag': '標簽', 
+    'app.worksedit.card-form.form-item-title-placeholder': '請輸入標題', 
+    'app.worksedit.card-form.form-item-title-minmax': '長度在 5 到 100 個字', 
+    'app.worksedit.card-form.form-item-addtime-placeholder': '請選擇發布時間', 
+    'app.worksedit.card-form.form-item-keywords-placeholder': '請輸入 Keywords', 
+    'app.worksedit.card-form.form-item-keywords-minmax': '長度在 2 到 50 個字', 
+    'app.worksedit.card-form.form-item-description-placeholder': '請輸入 Description', 
+    'app.worksedit.card-form.form-item-description-minmax': '長度在 10 到 200 個字', 
+    'app.worksedit.card-form.form-item-tag-placeholder': '請搜索選擇標簽', 
+    'app.worksedit.card-form.btn-submit': '提交',
+    'app.worksedit.card-form.submit-success.content': '修改作品成功',
+};
+  

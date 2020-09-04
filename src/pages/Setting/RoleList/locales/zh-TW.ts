@@ -1,0 +1,23 @@
+export default {
+    'app.settingrolelist.list.table-title': '列表',
+    'app.settingrolelist.list.btn-add': '新建角色',
+    'app.settingrolelist.list.btn-edit': '修改',
+    'app.settingrolelist.list.btn-del': '刪除',
+    'app.settingrolelist.list.table-column-number': '序號',
+    'app.settingrolelist.list.table-column-name': '名稱',
+    'app.settingrolelist.list.table-column-description': '備註',
+    'app.settingrolelist.list.table-column-oper': '操作',
+    'app.settingrolelist.createform.title': '新建角色',
+    'app.settingrolelist.createform.btn-cancel': '取消',
+    'app.settingrolelist.createform.btn-submit': '保存',
+    'app.settingrolelist.createform.form-item-name': '角色名稱',
+    'app.settingrolelist.createform.form-item-description': '備註',
+    'app.settingrolelist.createform.form-item-menu': '菜單權限',
+    'app.settingrolelist.createform.form-item-name-placeholder': '請輸入角色名稱',
+    'app.settingrolelist.createform.form-item-description-placeholder': '請輸入備註',
+    'app.settingrolelist.createform.form-item-menu-placeholder': '請選擇菜單權限',
+    'app.settingrolelist.createform.form-item-name-reg': '不能有英文格式的 ","',
+    'app.settingrolelist.createform.form-item-name-length': '最長 10 個字',
+    'app.settingrolelist.updateform.title': '修改角色',
+};
+  
